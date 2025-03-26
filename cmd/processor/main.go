@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/bhupendray/pushshift-go2/internal/processor"
+	"github.com/bhupendray/pushshift-go/internal/processor"
 )
 
 func main() {
