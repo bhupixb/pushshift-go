@@ -1,4 +1,4 @@
-# Pushshift-Go2
+# Pushshift-Go
 
 Efficiently read large zst files of reddit data from pushshift and convert into Parquet files using DuckDB.
 
