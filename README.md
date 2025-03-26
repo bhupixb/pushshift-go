@@ -160,6 +160,7 @@ Feel free to open an issue.
 ## Querying Parquet Files with DuckDB
 
 After processing your data, you can analyze the resulting Parquet files using DuckDB, which provides excellent performance for analytical queries.
+Refer https://duckdb.org/docs/stable/data/parquet/overview for more details.
 
 ### Basic Querying
 
