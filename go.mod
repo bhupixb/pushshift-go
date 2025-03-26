@@ -1,4 +1,4 @@
-module github.com/bhupendray/pushshift-go2
+module github.com/bhupixb/pushshift-go
 
 go 1.23.3
 
